@@ -41,3 +41,9 @@ I define the scope, review the output, and verify behavior. Architecture, correc
 - Remote collaboration with founders, product teams, and engineering teams.
 
 **Have a product to build or a codebase to improve?** Connect on [LinkedIn](https://www.linkedin.com/in/diizer/) or reach out through [Upwork](https://www.upwork.com/freelancers/~011dcf6c552a5453f9).
+
+## 📊 GitHub stats
+
+![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/Diizer?cardType=level-alternate&theme=tokyonight&preferLogin=false)
+
+[![Profile views](https://u8views.com/api/v1/github/profiles/23100906/views/day-week-month-total-count.svg)](https://u8views.com/github/Diizer)
