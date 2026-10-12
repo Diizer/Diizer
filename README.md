@@ -8,14 +8,7 @@ I help teams build SaaS products, modernize existing applications, and deliver f
 **Domains:** SaaS, telecom billing, fintech, cloud management, and marketplaces  
 **Open to:** remote full-stack roles and freelance collaborations
 
-[LinkedIn](https://www.linkedin.com/in/diizer/) · [Upwork](https://www.upwork.com/freelancers/~011dcf6c552a5453f9) · [Public projects](#-selected-public-projects)
-
-## 🔥 Experience highlights
-
-- **Datagate — telecom billing SaaS.** Planned and delivered features, coordinated implementation across the team, and built complex Angular interfaces. Worked on integrations with Stripe, Avalara, Xero, ConnectWise, SureTax, and QuickBooks.
-- **GetCoins — fintech platform.** Led an Angular 8 → 18 migration, set up an Nx monorepo for multiple domains, and implemented multilingual support with Transloco. Worked on a Node.js / TypeScript GraphQL API for crypto and fiat wallet services with PostgreSQL and Redis, and mentored a junior developer.
-- **Zesty — cloud management.** Built AWS cost-saving dashboards with Angular Material, AG Grid, and ECharts. Improved frontend performance and led an Angular 7 → 14 upgrade.
-- **Specialized web applications.** Delivered an Angular diagram editor for power plant components and worked on document viewer fixes, UI improvements, and complex scaling and calibration functionality.
+[LinkedIn](https://www.linkedin.com/in/diizer/) · [Upwork](https://www.upwork.com/freelancers/~011dcf6c552a5453f9)
 
 ## 🎯 What I bring to a team
 
@@ -39,16 +32,6 @@ I define the scope, review the output, and verify behavior. Architecture, correc
 | Data & integrations | PostgreSQL, Redis, Stripe, authentication, third-party APIs |
 | Delivery | Docker, CI/CD, Git, production deployments, OpenAPI / Swagger |
 | Engineering | System design, legacy modernization, debugging, performance, code review |
-
-## 🧩 Selected public projects
-
-My commercial experience is outlined above. These repositories show personal projects and experiments:
-
-| Project | Focus |
-| --- | --- |
-| [Language Cards](https://github.com/Diizer/languages-cards) | Vue 3 / TypeScript flashcard app with Pinia, progress tracking, local persistence, and dictionary import/export. |
-| [Voice POC](https://github.com/Diizer/voice_poc) | Python prototype exploring speaker verification, voice activity detection, and handling short utterances and background speech. |
-| [RM Autoturbo](https://github.com/Diizer/v0-rm-autoturbo-website) | Next.js / TypeScript website built with v0, with English, Catalan, Spanish, and French interfaces. |
 
 ## 🕶️ What I’m looking for
 
