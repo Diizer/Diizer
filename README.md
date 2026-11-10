@@ -4,7 +4,7 @@
 
 I build billing, payments and booking products end to end, and I build them with AI coding agents. I share what actually works: harness setup, agent orchestration and token economics.
 
-**Experience:** 8+ years in software engineering  
+**Experience:** 9+ years in software engineering  
 **Domains:** telecom billing SaaS, payments, booking platforms, third-party integrations  
 **Open to:** remote full-stack roles and freelance collaborations
 
