@@ -29,7 +29,7 @@ I define the scope, review the output and verify behavior. Architecture, correct
 
 ## What I'm working on in public
 
-- Open-sourcing the live dashboard subagent and its guard hook for Claude Code.
+- [claude-code-live-dashboard](https://github.com/Diizer/claude-code-live-dashboard): a subagent that keeps a live dashboard for long agent tasks, and the hook that fences it in.
 - Measuring token usage with and without a code knowledge graph on a real codebase.
 - Learning herdr for orchestrating agent sessions, and writing down what works and what does not.
 
@@ -46,6 +46,7 @@ I define the scope, review the output and verify behavior. Architecture, correct
 
 ## Selected repositories
 
+- [claude-code-live-dashboard](https://github.com/Diizer/claude-code-live-dashboard) — Claude Code subagent with a live progress dashboard, token usage per step and a guard hook.
 - [voice_poc](https://github.com/Diizer/voice_poc) — Python speaker-verification prototype with voice activity detection.
 - [languages-cards](https://github.com/Diizer/languages-cards) — language learning flashcards built with Vue 3, TypeScript and Pinia.
 - [v0-rm-autoturbo-website](https://github.com/Diizer/v0-rm-autoturbo-website) — multilingual Next.js site in four languages.
