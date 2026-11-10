@@ -1,49 +1,55 @@
 # Dmitry Zeleniak — Senior Full-Stack Engineer
 
-**Angular · React / Next.js · Node.js / NestJS · AI-assisted engineering**
+**Go · Node.js · Angular · React · AI coding agents**
 
-I help teams build SaaS products, modernize existing applications, and deliver features from requirements through production.
+I build billing, payments and booking products end to end, and I build them with AI coding agents. I share what actually works: harness setup, agent orchestration and token economics.
 
-**Experience:** 9+ years in software engineering  
-**Domains:** SaaS, telecom billing, fintech, cloud management, and marketplaces  
+**Experience:** 8+ years in software engineering  
+**Domains:** telecom billing SaaS, payments, booking platforms, third-party integrations  
 **Open to:** remote full-stack roles and freelance collaborations
 
 [LinkedIn](https://www.linkedin.com/in/diizer/) · [Upwork](https://www.upwork.com/freelancers/~011dcf6c552a5453f9)
 
-## 🎯 What I bring to a team
+## What I do
 
-- **End-to-end ownership:** clarify requirements, plan changes, implement APIs and interfaces, test, and support delivery.
-- **Experience with existing products:** understand unfamiliar codebases, fix difficult bugs, and modernize incrementally.
-- **Care for the user experience:** responsive layouts, clear application states, and interfaces that handle complex workflows.
-- **Practical collaboration:** clear estimates, proactive communication, code reviews, and knowledge sharing.
+- **Ship products end to end.** Angular and React frontends, Go and Node.js services, SQL databases, CI/CD.
+- **Modernize codebases that are already in production.** Recent example: an eight-phase migration of a legacy React 16 portal to React 19, TypeScript, Redux Toolkit and Vite, including its first automated tests.
+- **Integrate with everything.** 20+ integrations across accounting and PSA (Xero, ConnectWise, Autotask, HaloPSA), tax (Avalara, CereTax) and payments (Stripe, Authorize.Net, Nuvei, GoCardless).
 
-## 🤖 How I work with AI
+## How I work with AI agents
 
-I use Cursor, Claude Code, and AI coding agents for implementation, code exploration, refactoring, and test development.
+I use Claude Code and Codex every day, and I treat the setup around them as engineering work of its own.
 
-I define the scope, review the output, and verify behavior. Architecture, correctness, security, and maintainability remain my responsibility. I bring this workflow to both new applications and existing production codebases.
+- **Context agents can actually use.** Modular project guides loaded on demand, one source shared by Claude Code, Codex and Cursor, plus scripts that fail CI when the code drifts from the documented conventions.
+- **Custom subagents and guard hooks.** A subagent that keeps a live dashboard for long agent tasks, with token usage per step, and a hook that limits what that subagent can touch.
+- **Fewer tokens for the same work.** Code knowledge graphs, so agents query a graph before they grep and read whole files; effort and turn limits chosen by task type.
+- **Agents in parallel.** Separate branches in git worktrees, one agent per task.
 
-## ⚙️ Core competencies
+I define the scope, review the output and verify behavior. Architecture, correctness and security stay my responsibility.
 
-| Area | Technologies & focus |
+## What I'm working on in public
+
+- Open-sourcing the live dashboard subagent and its guard hook for Claude Code.
+- Measuring token usage with and without a code knowledge graph on a real codebase.
+- Learning herdr for orchestrating agent sessions, and writing down what works and what does not.
+
+## Stack
+
+| Area | Technologies |
 | --- | --- |
-| Frontend | Angular, React, Next.js, TypeScript, RxJS / NgRx, Tailwind CSS, Angular Material |
-| Backend | Node.js, NestJS, Python, Django / DRF, REST, GraphQL |
-| Data & integrations | PostgreSQL, Redis, Stripe, authentication, third-party APIs |
-| Delivery | Docker, CI/CD, Git, production deployments, OpenAPI / Swagger |
-| Engineering | System design, legacy modernization, debugging, performance, code review |
+| Frontend | Angular, React, Next.js, TypeScript, RxJS, Redux Toolkit, AG Grid, Tailwind CSS |
+| Backend | Go, Node.js (Express, NestJS), Python (Django REST Framework), REST, OpenAPI |
+| Data | PostgreSQL, Microsoft SQL Server, Redis |
+| Delivery | AWS, Docker, GitHub Actions, Bitbucket Pipelines |
+| Testing | Playwright, Vitest, Mocha, Cypress |
+| AI engineering | Claude Code, Codex, subagents, hooks, skills, context engineering, token optimization |
 
-## 🕶️ What I’m looking for
+## Selected repositories
 
-- Teams building useful products with clear ownership and open communication.
-- Full-stack work that combines product thinking, solid engineering, and thoughtful use of AI.
-- Opportunities to improve an established SaaS product or take a new application from idea to launch.
-- Remote collaboration with founders, product teams, and engineering teams.
+- [voice_poc](https://github.com/Diizer/voice_poc) — Python speaker-verification prototype with voice activity detection.
+- [languages-cards](https://github.com/Diizer/languages-cards) — language learning flashcards built with Vue 3, TypeScript and Pinia.
+- [v0-rm-autoturbo-website](https://github.com/Diizer/v0-rm-autoturbo-website) — multilingual Next.js site in four languages.
 
 **Have a product to build or a codebase to improve?** Connect on [LinkedIn](https://www.linkedin.com/in/diizer/) or reach out through [Upwork](https://www.upwork.com/freelancers/~011dcf6c552a5453f9).
 
-## 📊 GitHub stats
-
 ![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/Diizer?cardType=level-alternate&theme=tokyonight&preferLogin=false)
-
-[![Profile views](https://u8views.com/api/v1/github/profiles/23100906/views/day-week-month-total-count.svg)](https://u8views.com/github/Diizer)
